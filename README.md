@@ -1,3 +1,3 @@
-# GamersRdy
+# LevelUpAcademy
 
-GamersRdy is a Rocket League Coaching, Training & Resources Platform.
+GamersUpAcademy is a Coaching, Training & Resource Platform for gamers and game organizations.
